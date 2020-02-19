@@ -19,3 +19,4 @@ The data is from [https://www.census.gov/construction/chars/microdata.html](http
 
 ### Variables:
 
+TODO: Will write the variables here.
