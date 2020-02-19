@@ -20,3 +20,7 @@ The data is from [https://www.census.gov/construction/chars/microdata.html](http
 ### Variable Description
 
 [Refer to this file for Descipriton of the Variables in the data](Variables.md)
+
+# Project Poposal
+
+[Refer to this file for Proposal](Project Proposal.md)
