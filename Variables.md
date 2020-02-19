@@ -21,7 +21,7 @@ ACS</td>
         <td>
 Central Air-conditioning</td>
         <td>
-1 = Yes2 = No0 = Not reported</td>
+1 = Yes </br> 2 = No </br> 0 = Not reported</td>
         <td>
 None.</td>
     </tr>
@@ -33,7 +33,7 @@ AGER</td>
         <td>
 Age-Restricted</td>
         <td>
-1 = Yes2 = No0 = Not reported</td>
+1 = Yes </br> 2 = No </br> 0 = Not reported</td>
         <td>
 Age-restricted developments are intended for occupancy by persons of a specific age group, usually 55 and older or 62 and older.Not available in files for years prior to 2009.</td>
     </tr>
@@ -45,7 +45,7 @@ ASSOC</td>
         <td>
 Community Association</td>
         <td>
-1 = Yes2 = No0 = Not reported</td>
+1 = Yes </br> 2 = No </br> 0 = Not reported</td>
         <td>
 Community or homeowner's associations are formal legal entities created to maintain common areas of a development and to enforce private deed restrictions; these organizations are usually created when the development is built, and membership is mandatory. &nbsp;Not available in files for years prior to 2009.</td>
     </tr>
@@ -57,7 +57,7 @@ BASE</td>
         <td>
 Foundation</td>
         <td>
-01 = Full or partial basement02 = Crawl space03 = Slab04 = Other00 = Not reported</td>
+01 = Full or partial basement </br> 02 = Crawl space </br> 03 = Slab </br> 04 = Other </br> 00 = Not reported</td>
         <td>
 “Other” includes raised supports, earthen, and other foundation types.</td>
     </tr>
@@ -69,7 +69,7 @@ CAT</td>
         <td>
 Category Code</td>
         <td>
-1 = Built for sale/sold2 = Contractor-built3 = Owner-built4 = Built for rent</td>
+1 = Built for sale/sold </br> 2 = Contractor-built </br> 3 = Owner-built </br> 4 = Built for rent</td>
         <td>
 Beginning with the file for 2017, houses that are built for rent will be included in the "1-Built for Sale/Sold" category rather than being shown separately.</td>
     </tr>
@@ -81,7 +81,7 @@ CLOS</td>
         <td>
 Closing Costs in Sales Price</td>
         <td>
-1 = Yes2 = No0 = Not applicable or not reported</td>
+1 = Yes </br> 2 = No </br> 0 = Not applicable or not reported</td>
         <td>
 Applies only to houses sold.Not available in files for years after 2007. </td>
     </tr>
@@ -93,7 +93,7 @@ CON</td>
         <td>
 Condominium</td>
         <td>
-1 = Yes2 = No0 = Not applicable or not reported</td>
+1 = Yes </br> 2 = No </br> 0 = Not applicable or not reported</td>
         <td>
 Applies only to houses built for sale/sold.</td>
     </tr>
@@ -105,7 +105,7 @@ DECK&nbsp; </td>
         <td>
 Deck</td>
         <td>
-1 = Yes2 = No0 = Not reported</td>
+1 = Yes </br> 2 = No </br> 0 = Not reported</td>
         <td>
 None.</td>
     </tr>
@@ -117,7 +117,7 @@ DET</td>
         <td>
 Design of House</td>
         <td>
-1 = Detached2 = Attached0 = Not reported</td>
+1 = Detached </br> 2 = Attached0 = Not reported</td>
         <td>
 None.</td>
     </tr>
@@ -129,7 +129,7 @@ DIV</td>
         <td>
 Division</td>
         <td>
-1 = New England2 = Middle Atlantic3 = East North Central4 = West North Central5 = South Atlantic6 = East South Central7 = West South Central8 = Mountain9 = Pacific</td>
+1 = New England </br> 2 = Middle Atlantic </br> 3 = East North Central </br> 4 = West North Central </br> 5 = South Atlantic </br> 6 = East South Central </br> 7 = West South Central8 = Mountain </br> 9 = Pacific</td>
         <td>
 Order of houses within each division was randomly scrambled.</td>
     </tr>
@@ -141,7 +141,7 @@ FINC</td>
         <td>
 Type of Financing</td>
         <td>
-01 = Conventional02 = FHA03 = VA04 = Cash05 = Other financing 00 = Not reported</td>
+01 = Conventional </br> 02 = FHA </br> 03 = VA </br> 04 = Cash </br> 05 = Other financing </br>  00 = Not reported</td>
         <td>
 Applies only to houses sold, contractor-built houses and owner-built houses.“Other” includes Rural Housing Service, cash, Habitat for Humanity, loan from an individual, State or local government mortgage-backed bonds and other types of financing.</td>
     </tr>
@@ -153,7 +153,7 @@ FNBS</td>
         <td>
 Finished Basement</td>
         <td>
-1 = Yes2 = No0 = Not applicable or not reported</td>
+1 = Yes </br> 2 = No </br> 0 = Not applicable or not reported</td>
         <td>
 Applies only to houses reporting a full or partial basement.</td>
     </tr>
@@ -165,7 +165,7 @@ FOYER</td>
         <td>
 Two-Story Foyer</td>
         <td>
-1 = Yes2 = No0 = Not reported</td>
+1 = Yes </br> 2 = No </br> 0 = Not reported</td>
         <td>
 A two-story or "open" foyer means that the entranceway inside the front door of the house has a ceiling that is at the level of the second-floor ceiling.Not available in files for years prior to 2009.</td>
     </tr>
@@ -177,7 +177,7 @@ FRAME</td>
         <td>
 Framing Material</td>
         <td>
-1 = Wood2 = Steel3 = Concrete/masonry other than insulated concrete forms4 = Insulated concrete forms (SIP)0 = Not reported</td>
+1 = Wood </br> 2 = Steel </br> 3 = Concrete/masonry other than insulated concrete forms </br> 4 = Insulated concrete forms (SIP) </br> 0 = Not reported</td>
         <td>
 Structural framing refers to the studs used to frame exterior walls.Not available in files for years prior to 2009.</td>
     </tr>
@@ -189,7 +189,7 @@ GAR</td>
         <td>
 Parking Facility</td>
         <td>
-1 = 1 car garage2 = 2 car garage3 = 3 or more car garage4 = Other0 = Not&nbsp; reported</td>
+1 = 1 car garage </br> 2 = 2 car garage </br> 3 = 3 or more car garage4 = Other </br> 0 = Not&nbsp; reported</td>
         <td>
 “Other” includes carport, other offstreet parking (including a driveway with no garage or carport), and other parking facilities.</td>
     </tr>
@@ -201,7 +201,7 @@ HEAT</td>
         <td>
 Primary Space Heating System</td>
         <td>
-01 = Heat pump (air or ground source)02 = Forced air furnace (without heat pump)03 = Hot water or steam system04 = Other or no heat00 = Not reported</td>
+01 = Heat pump (air or ground source) </br> 02 = Forced air furnace (without heat pump) </br> 03 = Hot water or steam system </br> 04 = Other or no heat </br> 00 = Not reported</td>
         <td>
 “Other” includes electric baseboard or wall panels, fireplace with insert, stove that burns coal or wood, non-portable room heater that burns liquid fuel and is connected to a flue, vent, or chimney, passive solar system, other heat sources, and no heat.</td>
     </tr>
@@ -213,7 +213,7 @@ HEAT2</td>
         <td>
 Second Space Heating System</td>
         <td>
-01 = Heat pump (air or ground source)02 = Forced air furnace (without heat pump)03 = Hot water or steam system04 = Other or no heat00 = Not reported or no secondary heating system</td>
+01 = Heat pump (air or ground source) </br> 02 = Forced air furnace (without heat pump) </br> 03 = Hot water or steam system </br> 04 = Other or no heat </br> 00 = Not reported or no secondary heating system</td>
         <td>
 “Other” includes electric baseboard or wall panels, fireplace with insert, stove that burns coal or wood, non-portable room heater that burns liquid fuel and is connected to a flue, vent, or chimney, passive solar system, and other heat sources.Not available in files for years prior to 2009.</td>
     </tr>
@@ -225,7 +225,7 @@ LNDR</td>
         <td>
 Laundry Location</td>
         <td>
-1 = In the basement2 = On the first floor3 = On the second or higher floor4 = In the garage or carport5 = No connection planned6 = Multiple locations0 = Not reported</td>
+1 = In the basement </br> 2 = On the first floor </br> 3 = On the second or higher floor </br> 4 = In the garage or carport </br> 5 = No connection planned </br> 6 = Multiple locations </br> 0 = Not reported</td>
         <td>
 Not available in files for years prior to 2009.</td>
     </tr>
@@ -237,7 +237,7 @@ METRO</td>
         <td>
 Metropolitan Area</td>
         <td>
-1 = Inside a Metropolital Statistical Area (MSA)2 = Not in a MSA</td>
+1 = Inside a Metropolital Statistical Area (MSA) </br> 2 = Not in a MSA</td>
         <td>
 None.</td>
     </tr>
@@ -249,7 +249,7 @@ MFGS</td>
         <td>
 Construction Method</td>
         <td>
-1 = Modular2 = Panelized/Precut3 = Site-built0 = Not reported</td>
+1 = Modular </br> 2 = Panelized/Precut </br> 3 = Site-built </br> 0 = Not reported</td>
         <td>
 None.</td>
     </tr>
@@ -261,7 +261,7 @@ PATI</td>
         <td>
 Patio</td>
         <td>
-1 = Yes2 = No0 = Not reported</td>
+1 = Yes </br> 2 = No </br> 0 = Not reported</td>
         <td>
 None.</td>
     </tr>
@@ -273,7 +273,7 @@ PRCH</td>
         <td>
 Porch</td>
         <td>
-1 = Yes2 = No0 = Not reported</td>
+1 = Yes </br> 2 = No </br> 0 = Not reported</td>
         <td>
 None.</td>
     </tr>
@@ -285,7 +285,7 @@ SEWER</td>
         <td>
 Sewage Disposal System</td>
         <td>
-1 = Public sewers (including community or shared sewage/septic system)2 = Individual septic system3 = Other</td>
+1 = Public sewers (including community or shared sewage/septic system) </br> 2 = Individual septic system </br> 3 = Other</td>
         <td>
 Not available in files for years prior to 2009.</td>
     </tr>
@@ -297,9 +297,9 @@ STOR</td>
         <td>
 Stories</td>
         <td>
-1 = 1 story2 = 2 or more stories (including 1½ stories)3 = Split-level0 = Not reported</td>
+1 = 1 story </br> 2 = 2 or more stories (including 1½ stories) </br> 3 = Split-level </br> 0 = Not reported</td>
         <td>
-Categories were updated in 2016.&nbsp; For 2014-2015 files:2 = 2 stories or more (inc. split-level)Prior to the 2014 file:2 = 2 stories or more3 = Split level</td>
+Categories were updated in 2016.&nbsp; For 2014-2015 files: </br> 2 = 2 stories or more (inc. split-level) </br> Prior to the 2014 file: </br> 2 = 2 stories or more </br> 3 = Split level</td>
     </tr>
     <tr>
         <td>
@@ -309,7 +309,7 @@ WAL1 </td>
         <td>
 Primary Exterior Wall Material</td>
         <td>
-01 = Wood or wood products02 = Brick or brick veneer 03 = Aluminum siding (not covered with vinyl) 04 = Stucco&nbsp; 05 = Vinyl siding (including vinyl-covered aluminum)06 = Concrete block (not including stucco)07 = Stone, rock, or other stone materials 08 = Fiber cement siding (such as Hardiplank or Hardiboard)09 = Other00 = Not reported</td>
+01 = Wood or wood products </br> 02 = Brick or brick veneer  </br> 03 = Aluminum siding (not covered with vinyl)  </br> 04 = Stucco&nbsp;  </br> 05 = Vinyl siding (including vinyl-covered aluminum) </br> 06 = Concrete block (not including stucco) </br> 07 = Stone, rock, or other stone materials  </br> 08 = Fiber cement siding (such as Hardiplank or Hardiboard) </br> 09 = Other </br> 00 = Not reported</td>
         <td>
 “Other” includes poured concrete, steel siding, and other materials.Beginning with the file for 2008, Aluminum siding is also included with “09-Other” rather than being shown separately.</td>
     </tr>
@@ -321,7 +321,7 @@ WAL2</td>
         <td>
 Secondary Exterior Wall Material</td>
         <td>
-01 = Wood or wood products02 = Brick or brick veneer 03 = Aluminum siding (not covered with vinyl) 04 = Stucco&nbsp; 05 = Vinyl siding (including vinyl-covered aluminum)06 = Concrete block (not including stucco)07 = Stone, rock, or other stone materials 08 = Fiber cement siding (such as Hardiplank or Hardiboard)09 = Other00 = Not reported or no secondary wall material</td>
+01 = Wood or wood products </br> 02 = Brick or brick veneer  </br> 03 = Aluminum siding (not covered with vinyl)  </br> 04 = Stucco&nbsp;  </br> 05 = Vinyl siding (including vinyl-covered aluminum) </br> 06 = Concrete block (not including stucco) </br> 07 = Stone, rock, or other stone materials  </br> 08 = Fiber cement siding (such as Hardiplank or Hardiboard) </br> 09 = Other00 = Not reported or no secondary wall material</td>
         <td>
 Applies only to houses reporting “yes” to having a secondary exterior wall material.“Other” includes poured concrete, steel siding, and other materials.Beginning with the file for 2008, Aluminum siding is also included with “09-Other” rather than being shown separately.In files for years prior to 2009, WAL2 is “10” for houses with no secondary wall material (those with WALS=”2”).&nbsp; Beginning with the file for 2009, houses with WALS=”2” have WAL2=”00”.</td>
     </tr>
@@ -333,7 +333,7 @@ WALS</td>
         <td>
 Secondary Exterior Wall Material</td>
         <td>
-1 = Yes2 = No0 = Not reported</td>
+1 = Yes </br> 2 = No </br> 0 = Not reported</td>
         <td>
 In files for years prior to 2009, WAL2 is “10” for houses with no secondary wall material (those with WALS=”2”).&nbsp; Beginning with the file for 2009, houses with WALS=”2” have WAL2=”00”.</td>
     </tr>
@@ -345,7 +345,7 @@ WATER</td>
         <td>
 Water Supply Source</td>
         <td>
-1 = Public water (including community or shared water supply/well)2 = Individual well3 = Other0 = Not reported</td>
+1 = Public water (including community or shared water supply/well) </br> 2 = Individual well </br> 3 = Other </br> 0 = Not reported</td>
         <td>
 Not available in files for years prior to 2009.</td>
     </tr>
@@ -369,7 +369,7 @@ BEDR</td>
         <td>
 Bedrooms</td>
         <td>
-2 = 2 bedrooms or less3 = 3 bedrooms4 = 4 bedrooms5 = 5 bedrooms or more0 = Not reported</td>
+2 = 2 bedrooms or less </br> 3 = 3 bedrooms </br> 4 = 4 bedrooms </br> 5 = 5 bedrooms or more </br> 0 = Not reported</td>
         <td>
 None.</td>
     </tr>
@@ -381,7 +381,7 @@ COMP</td>
         <td>
 Completion Date</td>
         <td>
-YYYYMM = Year/month, such as 2009010 = Not completed</td>
+YYYYMM = Year/month, such as 2009 </br> 010 = Not completed</td>
         <td>
 None.</td>
     </tr>
@@ -393,7 +393,7 @@ FNSQ</td>
         <td>
 Square Foot Area of Finished Basement</td>
         <td>
-In square feet.0 = Not applicable or not reported</td>
+In square feet. </br> 0 = Not applicable or not reported</td>
         <td>
 Applies only to houses with a full or partial finished basement and reporting square foot areas of house (unchanged) and finished basement.&nbsp; Values not allowed to exceed 50% or be less than 5% of area of house.&nbsp; Values outside those limits changed to those limits.</td>
     </tr>
@@ -417,7 +417,7 @@ FPLS</td>
         <td>
 Fireplace</td>
         <td>
-0 = None1 = 1 fireplace2 = 2 or more fireplaces9 = Not reported</td>
+0 = None </br> 1 = 1 fireplace </br> 2 = 2 or more fireplaces </br> 9 = Not reported</td>
         <td>
 None.</td>
     </tr>
@@ -429,7 +429,7 @@ FULB</td>
         <td>
 Full Bathrooms</td>
         <td>
-1 = 1 bathroom or less2 = 2 bathrooms3 = 3 bathrooms4 = 4 bathrooms or more9 = Not reported</td>
+1 = 1 bathroom or less </br> 2 = 2 bathrooms </br> 3 = 3 bathrooms </br> 4 = 4 bathrooms or more </br> 9 = Not reported</td>
         <td>
 None.</td>
     </tr>
@@ -441,7 +441,7 @@ HAFB</td>
         <td>
 Half Bathrooms</td>
         <td>
-0 = 0 half bathrooms1 = 1 half bathrooms2 = 2 half bathrooms or more9 = Not reported</td>
+0 = 0 half bathrooms </br> 1 = 1 half bathrooms </br> 2 = 2 half bathrooms or more </br> 9 = Not reported</td>
         <td>
 None.</td>
     </tr>
@@ -477,7 +477,7 @@ SALE</td>
         <td>
 Sale Date</td>
         <td>
-YYYYMM = Year/month, such as 2009010 = Not sold</td>
+YYYYMM = Year/month, such as 2009 </br> 010 = Not sold</td>
         <td>
 Applies only to houses built for sale/ sold. </td>
     </tr>
@@ -501,7 +501,7 @@ STRT</td>
         <td>
 Start Date</td>
         <td>
-YYYYMM = Year/month, such as 2009010 = Not started</td>
+YYYYMM = Year/month, such as 2009 </br> 010 = Not started</td>
         <td>
 None.</td>
     </tr>
@@ -561,7 +561,7 @@ FUEL</td>
         <td>
 Primary Space Heating Fuel</td>
         <td>
-01 = Electricity02 = Natural gas03 = Bottled or liquefied petroleum gas(including propane) 04 = Oil&nbsp; (including heating oil or kerosene)05 = Other or no heat00 = Not reported</td>
+01 = Electricity </br> 02 = Natural gas </br> 03 = Bottled or liquefied petroleum gas(including propane)  </br> 04 = Oil&nbsp; (including heating oil or kerosene) </br> 05 = Other or no heat </br> 00 = Not reported</td>
         <td>
 “Other” includes wood, pellets, solar, coal, and other fuels.In the files for 2008 and 2009, Bottled gas is included with “02-Natural gas” rather than being shown separately.</td>
     </tr>
@@ -573,7 +573,7 @@ FUEL2</td>
         <td>
 Second Space Heating Fuel</td>
         <td>
-01 = Electricity02 = Natural gas03 = Bottled or liquefied petroleum gas(including propane) 04 = Oil&nbsp; (including heating oil or kerosene)05 = Other00 = Not reported or no second heating system</td>
+01 = Electricity </br> 02 = Natural gas </br> 03 = Bottled or liquefied petroleum gas(including propane) </br>  04 = Oil&nbsp; (including heating oil or kerosene) </br> 05 = Other </br> 00 = Not reported or no second heating system</td>
         <td>
 “Other” includes wood, pellets, solar, coal, and other fuels.Not available in files for years prior to 2009. In the file for 2009, Bottled gas is included with “02-Natural gas” rather than being shown separately.</td>
     </tr>
@@ -597,7 +597,7 @@ FSLPR</td>
         <td>
 Final Sales Price at Completion</td>
         <td>
-Final sales price reported at the time the house was completed; whole dollars to nearest $100.0 = Not applicable or not&nbsp; reported</td>
+Final sales price reported at the time the house was completed; whole dollars to nearest $100. </br> 0 = Not applicable or not&nbsp; reported</td>
         <td>
 Applies only to houses sold. Within each division, top 3% and bottom 1% of all reported values were changed to those limits. Unchanged values less than $15,000 were changed to $15,000.Not available in files for years prior to 2009.</td>
     </tr>
@@ -609,7 +609,7 @@ AREA_F</td>
         <td>
 Square Foot Area of the Lot Flag</td>
         <td>
-1 = Lot size has been changed0 = No changing done</td>
+1 = Lot size has been changed </br> 0 = No changing done</td>
         <td>
 Relationships of changed values to other values will be different.</td>
     </tr>
@@ -621,7 +621,7 @@ FNSQ_F</td>
         <td>
 Square Foot Area of Finished Basement Flag</td>
         <td>
-1 = Final square foot area of finishedbasement at time of completion has been changed0 = No changing done</td>
+1 = Final square foot area of finishedbasement at time of completion has been changed </br> 0 = No changing done</td>
         <td>
 Relationships of changed values to other values will be different.</td>
     </tr>
@@ -633,7 +633,7 @@ FFNSQ_F</td>
         <td>
 Final Square Foot Area of Finished Basement at Completion Flag</td>
         <td>
-1 = Final square foot area of finished basement at time of completion has been changed0 = No changing done</td>
+1 = Final square foot area of finished basement at time of completion has been changed </br> 0 = No changing done</td>
         <td>
 Relationships of changed values to other values will be different.Not available in files for years prior to 2009.</td>
     </tr>
@@ -645,7 +645,7 @@ SLPR_F</td>
         <td>
 Sales Price Flag</td>
         <td>
-1 = Sales price has been changed0 = No changing done</td>
+1 = Sales price has been changed </br> 0 = No changing done</td>
         <td>
 Relationships of changed values to other values will be different.</td>
     </tr>
@@ -657,7 +657,7 @@ FSLPR_F</td>
         <td>
 Final Sales Price Flag</td>
         <td>
-1 = Final sales price reported at the time thehouse was completed has been changed0 = No changing done</td>
+1 = Final sales price reported at the time thehouse was completed has been changed </br> 0 = No changing done</td>
         <td>
 Relationships of changed values to other values will be different.Not available in files for years prior to 2009.</td>
     </tr>
@@ -669,7 +669,7 @@ CONPR_F</td>
         <td>
 Contract Price Flag</td>
         <td>
-1 = Contract price has been changed0 = No changing done</td>
+1 = Contract price has been changed </br> 0 = No changing done</td>
         <td>
 Relationships of changed values to other values will be different.</td>
     </tr>
@@ -681,7 +681,7 @@ FCONPR_F</td>
         <td>
 Final Contract Price Flag</td>
         <td>
-1 = Final contract price reported at the timethe house was completed has been changed0 = No changing done</td>
+1 = Final contract price reported at the timethe house was completed has been changed </br> 0 = No changing done</td>
         <td>
 Relationships of changed values to other values will be different.Not available in files for years prior to 2009.</td>
     </tr>
@@ -693,7 +693,7 @@ LOTV_F</td>
         <td>
 Lot Value Flag </td>
         <td>
-1 = Lot value has been changed.0 = No changing done</td>
+1 = Lot value has been changed. </br> 0 = No changing done</td>
         <td>
 Relationships of changed values to other values will be different.</td>
     </tr>
@@ -705,7 +705,7 @@ SQFS_F</td>
         <td>
 Square Foot Area of House Flag</td>
         <td>
-1 = Square foot area has been changed0 = No changing done</td>
+1 = Square foot area has been changed </br> 0 = No changing done</td>
         <td>
 Relationships of changed values to other values will be different.</td>
     </tr>
@@ -717,7 +717,7 @@ FSQFS_F</td>
         <td>
 Final Square Foot Area of House at Completion Flag</td>
         <td>
-1 = Final square foot area of house at time of completion has been changed0 = No changing done</td>
+1 = Final square foot area of house at time of completion has been changed </br> 0 = No changing done</td>
         <td>
 Relationships of changed values to other values will be different.Not available in files for years prior to 2009.</td>
     </tr>
@@ -729,7 +729,7 @@ PVALU_F</td>
         <td>
 Permit Value Flag</td>
         <td>
-1 = Permit value has been changed0 = No changing done</td>
+1 = Permit value has been changed </br> 0 = No changing done</td>
         <td>
 Relationships of changed values to other values will be different.Not available in files for years prior to 2009.</td>
     </tr>

@@ -1,6 +1,9 @@
 # MST IST 5520 SP2020 Group 7
 
-Group 7 Project for IST  5520 – Data Science and Machine Learning with Python Course Syllabus  - Spring  2020 at Missouri UNiversity of Science and Technology
+**Missouri University of Science and Technology**
+**IST  5520 – Data Science and Machine Learning with Python**
+**Group 7**
+***Spring  2020***
 
 ## Team Members:
 
@@ -23,4 +26,4 @@ The data is from [https://www.census.gov/construction/chars/microdata.html](http
 
 # Project Poposal
 
-[Refer to this file for Proposal](Project Proposal.md)
+[Refer to this file for Proposal](Data Description.ipynb)
