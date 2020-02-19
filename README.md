@@ -16,3 +16,6 @@ Group 7 Project for IST  5 520 – Data Science and Machine Learning with Python
 ### Characteristics of New Housing:
 
 The data is from [https://www.census.gov/construction/chars/microdata.html](https://www.census.gov/construction/chars/microdata.html)
+
+### Variables:
+
