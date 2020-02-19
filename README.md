@@ -24,6 +24,6 @@ The data is from [https://www.census.gov/construction/chars/microdata.html](http
 
 <a href="https://github.com/gassergalalali/MST-IST-5520-SP2020-Group-7/blob/master/Data%20Description.ipynb">Refer to this file for Descipriton of the Variables in the data</a>
 
-# Project Poposal
+# Project Proposal
 
 <a href="https://github.com/gassergalalali/MST-IST-5520-SP2020-Group-7/blob/master/Project%20Proposal.ipynb">Refer to this file for Proposal</a>
