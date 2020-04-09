@@ -27,3 +27,6 @@ The data is from [https://www.census.gov/construction/chars/microdata.html](http
 # Project Proposal
 
 <a href="https://github.com/gassergalalali/MST-IST-5520-SP2020-Group-7/blob/master/Milestone%201/Project%20Proposal.ipynb">Refer to this file for Proposal</a>
+
+# Project Milestone 2 - Data Management
+<a href="https://github.com/gassergalalali/MST-IST-5520-SP2020-Group-7/blob/master/Milestone%202/Project%20Report%20-%20Milestone%202%20.ipynb">Refer to this file for Project Milestone 2</a>
